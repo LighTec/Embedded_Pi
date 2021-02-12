@@ -1,0 +1,9 @@
+SyllabusAndSchedule.doc
+**/*.odt
+**/*.zip
+**/*.pptx
+**/*.jar
+**/*.txt
+**/*.docx
+**/*.doc
+Zips/**
